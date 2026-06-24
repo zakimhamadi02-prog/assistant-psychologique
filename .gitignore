@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+*.log
+
+venv/
+env/
+.venv/
+semantic_model.pkl
